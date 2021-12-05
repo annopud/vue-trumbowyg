@@ -1,6 +1,6 @@
 {
   "name": "vue-trumbowyg",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Vue.js component for trumbowyg WYSIWYG editor fork from https://github.com/ankurk91/vue-trumbowyg.git",
   "main": "dist/vue-trumbowyg.js",
   "browser": "dist/vue-trumbowyg.min.js",
