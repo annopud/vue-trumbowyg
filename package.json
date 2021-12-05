@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "jquery": ">=1.8",
-    "trumbowyg": "^2.21.0"
+    "trumbowyg": "https://github.com/annopud/Trumbowyg.git#main"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
